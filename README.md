@@ -22,6 +22,4 @@ Currently, I'm a graduate student working Sangmyung University Pattern Recogniti
 
 
 ## 📝 Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BaekJunhowo&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Github stats](https://github-readme-stats.vercel.app/api?username=BaekJunhowo&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BaekJunhowo&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats) [![Github stats](https://github-readme-stats.vercel.app/api?username=BaekJunhowo&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
