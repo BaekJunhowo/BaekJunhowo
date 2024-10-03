@@ -21,7 +21,6 @@ I graduated from the Pattern Recognition Lab at Sangmyung University.
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white)
 ![docker](https://img.shields.io/badge/docker-257bd6?style=flat&logo=docker&logoColor=white)
-
 ![Pycharm](https://img.shields.io/badge/Pycharm-000000?style=flat&logo=Pycharm&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=Anaconda&logoColor=white)
 ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=GoogleColab&logoColor=white)
