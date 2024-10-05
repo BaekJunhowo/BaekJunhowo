@@ -27,5 +27,5 @@ I graduated from the Pattern Recognition Lab at Sangmyung University.
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white)
 
 
-## 📝 Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BaekJunhowo&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats) [![Github stats](https://github-readme-stats.vercel.app/api?username=BaekJunhowo&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[//]: # (## 📝 Stats)
+[//]: # ([![Top Langs]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=BaekJunhowo&layout=compact&theme=gotham&#41;]&#40;https://github.com/anuraghazra/github-readme-stats&#41; [![Github stats]&#40;https://github-readme-stats.vercel.app/api?username=BaekJunhowo&theme=dark&#41;]&#40;https://github.com/anuraghazra/github-readme-stats&#41;)
