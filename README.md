@@ -8,6 +8,8 @@ I graduated from the Pattern Recognition Lab at Sangmyung University.
 - Computer Vision
 - Signal Processing
 - Deep Learning
+- Remote Photoplethysmography
+- Biometric Authentication
 
 
 ## 💪 Skills
