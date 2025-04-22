@@ -1,13 +1,11 @@
 ## [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white)](mailto:dolly21cc@gmail.com)
 
-👋 Hi there! I majored in Human-Centered AI at Sangmyung University. <br>
-I graduated from the Pattern Recognition Lab at Sangmyung University.
+👋 Hi there! I majored in Human-Centered AI at Sangmyung University. I graduated from the Pattern Recognition Lab at Sangmyung University.
 
 
 ## 	💬 Interest
 - Computer Vision
 - Signal Processing
-- Deep Learning
 - Remote Photoplethysmography
 - Biometric Authentication
 
@@ -23,8 +21,6 @@ I graduated from the Pattern Recognition Lab at Sangmyung University.
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white)
 ![docker](https://img.shields.io/badge/docker-257bd6?style=flat&logo=docker&logoColor=white)
-![Pycharm](https://img.shields.io/badge/Pycharm-000000?style=flat&logo=Pycharm&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=Anaconda&logoColor=white)
 ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=GoogleColab&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white)
 
